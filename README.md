@@ -1,6 +1,12 @@
 #about
 
 
+💡 Real Problem
+
+People complain but never get status, accountability, or resolution tracking.
+
+
+
 Citizen/User complaint submission
 
 Image upload + category tagging
