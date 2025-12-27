@@ -1,0 +1,5 @@
+{
+  "name": "Smart Issue Tracker",
+  "description": "A smart, AI-powered issue tracking application featuring role-based dashboards, automated issue analysis using Gemini, and analytics.",
+  "requestFramePermissions": []
+}
